@@ -251,7 +251,7 @@ document.querySelector('#button').addEventListener('click', ev => {
       ease: 'power3.in',
       delay: 2,
       onComplete: () => {
-         window.location = 'https://alvonjovanus.netlify.app/';
+         window.location = 'https://alvonjovanusc.netlify.app/';
       },
    });
 });
