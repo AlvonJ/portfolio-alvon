@@ -12,11 +12,15 @@
 - GSAP
 - Vite
 
+## Link Website
+
+https://alvonjovanus.netlify.app/
+
 ## Screenshot
 
-| Main                                    |
-| --------------------------------------- |
-| ![main page](public/img/screenshot.png) |
+| Main                         |
+| ---------------------------- |
+| ![main page](screenshot.png) |
 
 ## Installation
 
