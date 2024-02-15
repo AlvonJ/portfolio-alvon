@@ -2,7 +2,7 @@
 
 3D Website application to present Alvon Jovanus' portfolio.
 
-## Techologies
+## Technologies
 
 - HTML
 - CSS
